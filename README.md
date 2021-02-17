@@ -1,5 +1,5 @@
 # cdn
-We have used jsdelivr which is fast, reliable, and automated. We will be using this content distributed network(CDN) to improve and preform our web project fast.
+We have used jsdelivr which is fast, reliable, and automated. We will be using this content distribution network(CDN) to improve and perform our web project fast.
 
 
 ### How to use it
